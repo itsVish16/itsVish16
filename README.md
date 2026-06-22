@@ -30,7 +30,7 @@
 
 #### 💻 Languages
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,bash,java" />
+<img src="https://skillicons.dev/icons?i=python,cpp,bash,c,sql" />
 </p>
 
 #### ⚙️ Backend & Frameworks
@@ -50,7 +50,7 @@
 
 #### 🔧 Tools & DevOps
 <p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma" />
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" />
 </p>
 
 ---
